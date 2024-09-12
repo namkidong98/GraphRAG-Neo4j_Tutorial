@@ -1,0 +1,4 @@
+neo4j-driver
+langchain_community
+langchain_openai
+python-dotenv
